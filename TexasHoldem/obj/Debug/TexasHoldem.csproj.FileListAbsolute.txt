@@ -1,0 +1,8 @@
+c:\users\jiang\documents\visual studio 2013\Projects\TexasHoldem\TexasHoldem\bin\Debug\TexasHoldem.exe.config
+c:\users\jiang\documents\visual studio 2013\Projects\TexasHoldem\TexasHoldem\bin\Debug\TexasHoldem.exe
+c:\users\jiang\documents\visual studio 2013\Projects\TexasHoldem\TexasHoldem\bin\Debug\TexasHoldem.pdb
+c:\users\jiang\documents\visual studio 2013\Projects\TexasHoldem\TexasHoldem\obj\Debug\TexasHoldem.csprojResolveAssemblyReference.cache
+c:\users\jiang\documents\visual studio 2013\Projects\TexasHoldem\TexasHoldem\obj\Debug\TexasHoldem.Properties.Resources.resources
+c:\users\jiang\documents\visual studio 2013\Projects\TexasHoldem\TexasHoldem\obj\Debug\TexasHoldem.csproj.GenerateResource.Cache
+c:\users\jiang\documents\visual studio 2013\Projects\TexasHoldem\TexasHoldem\obj\Debug\TexasHoldem.exe
+c:\users\jiang\documents\visual studio 2013\Projects\TexasHoldem\TexasHoldem\obj\Debug\TexasHoldem.pdb
